@@ -1,5 +1,5 @@
 {
-  "name": "api-exchange-integration-template",
+  "name": "react-template",
   "version": "1.0.0",
   "description": "A template for an integration of two sites based on apikeys",
   "main": "index.js",
@@ -8,18 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://Moonzenith@bitbucket.org/Moonzenith/api-exchange-integration-template.git"
+    "url": "git+https://github.com/Moonzenith/react-template.git"
   },
   "keywords": [
     "reactjs",
-    "template",
-    "apikey",
-    "client",
-    "integration"
+    "template"
   ],
   "author": "Alejandro Quiroz",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/Moonzenith/api-exchange-integration-template#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/Moonzenith/react-template.git",
   "devDependencies": {
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
@@ -39,5 +36,8 @@
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
+  },
+  "bugs": {
+    "url": "https://github.com/Moonzenith/react-template/issues"
   }
 }
